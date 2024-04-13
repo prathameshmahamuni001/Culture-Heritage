@@ -24,9 +24,8 @@ Join a vibrant community of cultural enthusiasts and contributors passionate abo
 
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** JSON Web Tokens (JWT)
+- **Backend:** Node.js, PHP.
+- **Database:** n/a
 - **Version Control:** Git, GitHub
 
 ## Getting Started
