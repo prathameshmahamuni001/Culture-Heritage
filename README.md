@@ -37,7 +37,5 @@ To run Cultural Heritage locally on your machine, follow these steps:
 5. Access the application through your web browser and start exploring the rich cultural heritage of India!
 
 ## Contributors
-- [Prathamesh Mahamuni](link-to-your-profile) - Project Lead & Developer
-- [Karan Patel](link-to-contributor-profile) - Frontend Developer & Backend Developer
-- [Contributor 2](link-to-contributor-profile) - 
-- [Contributor 3](link-to-contributor-profile) - Content Writer & Researcher
+- [Prathamesh Mahamuni](link-to-your-profile) - Project Lead, Frontend Developer & Researcher
+- [Karan Patel](link-to-contributor-profile) - Backend Developer, Content Writer 
